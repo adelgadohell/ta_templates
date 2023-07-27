@@ -139,7 +139,6 @@
             "securityRules": [
                 {
                     "name": "AllowCidrServices",
-                    "id": "[resourceId('Microsoft.Network/networkSecurityGroups/securityRules', [parameters('networkSecurityGroupName')], 'AllowCidrServices')]",
                     "type": "Microsoft.Network/networkSecurityGroups/securityRules",
                     "properties": {
                         "description": "Allowed inbound services from home and CorpNet.",
