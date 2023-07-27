@@ -95,7 +95,7 @@
     "myIpAddress": {
       "type": "String",
       "metadata": {
-        "description": "Name of the Network Security Group"
+        "description": "IP address to allow SSH access from."
       }
     }
   },
