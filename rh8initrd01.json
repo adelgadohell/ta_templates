@@ -11,7 +11,7 @@
   "parameters": {
     "vmName": {
       "type": "string",
-      "defaultValue": "cxprh801",
+      "defaultValue": "cxprh802",
       "metadata": {
         "description": "The name of you Virtual Machine."
       }
@@ -83,7 +83,7 @@
     },
     "customData": {
       "type": "string",
-      "defaultValue": "IyEvYmluL2Jhc2gKIyBSZWNvbmZpZ3VyZSB0aGUgU1NIIHNlcnZpY2UgdG8gbGlzdGVuIG9uIHBvcnQgMjIyMi4Kc2VkIC1FaSAncy9eIz8oW1s6c3BhY2U6XV0/KStQb3J0KFtbOnNwYWNlOl1dPzIyKFtbOnNwYWNlOl1dPykrKSskL1BvcnQgMjIyMiAjIE1vZGlmaWVkIGJ5IGF1dG9tYXRpb24uLycgL2V0Yy9zc2gvc3NoZF9jb25maWcKCiNBZGRpbmcgcG9ydCB0byBTRUxpbnV4CnN5c3RlbWN0bCBzdG9wIHNzaGQKc2VtYW5hZ2UgcG9ydCAtYSAtdCBzc2hfcG9ydF90IC1wIHRjcCAyMjIyCnN5c3RlbWN0bCBzdGFydCBzc2hkCnNsZWVwIDUKCiNBZGRpbmcgcG9ydCB0byBmaXJld2FsbApzeXN0ZW1jdGwgc3RvcCBmaXJld2FsbGQKZmlyZXdhbGwtb2ZmbGluZS1jbWQgLS16b25lPXB1YmxpYyAtLWFkZC1wb3J0PTIyMjIvdGNwCgojIEJyZWFraW5nIHRoZSBzeXN0ZW0gYnkgYWRkaW5nIGEgd3JvbmcgZnN0YWIgZW50cnkuCnNlZCAtaSAnJGEgL2Rldi9tYXBwZXIvdmcvbm90ZXhpc3QgL25vdGV4aXN0IHhmcyBkZWZhdWx0cyAwIDAnIC9ldGMvZnN0YWIKCiNSZXN0YXJ0aW5nIHRoZSBzeXN0ZW0KcmVib290Cg==",
+      "defaultValue": "IyEvYmluL2Jhc2gKIyBSZWNvbmZpZ3VyZSB0aGUgU1NIIHNlcnZpY2UgdG8gbGlzdGVuIG9uIHBvcnQgMjIyMi4Kc2VkIC1FaSAncy9eIz8oW1s6c3BhY2U6XV0/KStQb3J0KFtbOnNwYWNlOl1dPzIyKFtbOnNwYWNlOl1dPykrKSskL1BvcnQgMjIyMiAjIE1vZGlmaWVkIGJ5IGF1dG9tYXRpb24uLycgL2V0Yy9zc2gvc3NoZF9jb25maWcKCiNBZGRpbmcgcG9ydCB0byBTRUxpbnV4CnN5c3RlbWN0bCBzdG9wIHNzaGQKc2VtYW5hZ2UgcG9ydCAtYSAtdCBzc2hfcG9ydF90IC1wIHRjcCAyMjIyCnN5c3RlbWN0bCBzdGFydCBzc2hkCnNsZWVwIDUKCiNBZGRpbmcgcG9ydCB0byBmaXJld2FsbApzeXN0ZW1jdGwgc3RvcCBmaXJld2FsbGQKZmlyZXdhbGwtb2ZmbGluZS1jbWQgLS16b25lPXB1YmxpYyAtLWFkZC1wb3J0PTIyMjIvdGNwCgojIEJyZWFrIGJvb3QgYnkgcmVtb3ZpbmcgaW5pdHJhbWZzIGZpbGVzCnJtIC12ZiAvYm9vdC9pbml0cmFtZnMqLmltZwoKCiNSZXN0YXJ0aW5nIHRoZSBzeXN0ZW0KcmVib290Cg==",
       "metadata": {
         "description": "base64 content for cloud-init custom data"
       }
