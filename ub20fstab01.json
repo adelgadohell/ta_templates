@@ -91,6 +91,12 @@
     "storageAccounts_aztrial_name": {
       "defaultValue": "[concat('stor', uniqueString(resourceGroup().id))]",
       "type": "String"
+    },
+    "myIpAddress": {
+      "type": "String",
+      "metadata": {
+        "description": "Name of the Network Security Group"
+      }
     }
   },
   "functions": [],
